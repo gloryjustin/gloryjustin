@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gloryjustin
 - 👀 I’m interested in reinforcement learning, artificial intelligence and renewable energy.
-- 🌱 I’m currently learning how to apply artificial intelligeence methods to automatic controls
+- 🌱 I’m currently learning how to apply artificial intelligence methods to automatic controls
 - 💞️ I’m looking to collaborate on safe AI and learning for automation.
 - 📫 You can reach me at justig@rpi.edu
 
